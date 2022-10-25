@@ -1,0 +1,6 @@
+API = "5622234964:AAGe9qZpSuwp-_TG2Ize9zO5lFGg-7TGXfE"
+db_name = "AutoMarket"
+host = "127.0.0.1"
+user = "root"
+password = ""
+CryptoPay = "61377:AACyeR8wkq8ovr8e14tFW7gjcU8vhngDBqV"
